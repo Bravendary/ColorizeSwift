@@ -1,7 +1,7 @@
-// swift-tools-version:4.0
+// swift-tools-version:5.0
 
 //
-//  Package@swift-4.swift
+//  Package@swift-5.swift
 //  ColorizeSwift
 //
 //  Created by Noah Bass on 19/12/18.
