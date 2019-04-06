@@ -285,14 +285,14 @@
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 924FTKSN52;
 						DevelopmentTeamName = "Michal Tynior";
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 					900EE5F51CADBEDB004AF16A = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 924FTKSN52;
 						DevelopmentTeamName = "Michal Tynior";
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1020;
 					};
 					900EE6121CADC2D9004AF16A = {
 						CreatedOnToolsVersion = 7.3;
@@ -315,10 +315,11 @@
 			};
 			buildConfigurationList = 900EE5E61CADBEDB004AF16A /* Build configuration list for PBXProject "ColorizeSwift" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 900EE5E21CADBEDB004AF16A;
 			productRefGroup = 900EE5ED1CADBEDB004AF16A /* Products */;
@@ -538,6 +539,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.tynior.ColorizeSwift;
 				PRODUCT_NAME = ColorizeSwift;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -558,6 +560,7 @@
 				PRODUCT_NAME = ColorizeSwift;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -569,6 +572,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tynior.ColorizeSwiftTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -581,6 +585,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.tynior.ColorizeSwiftTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
